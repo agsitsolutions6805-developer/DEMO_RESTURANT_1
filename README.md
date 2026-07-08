@@ -22,3 +22,4 @@ ATIKUA is an immersive fine-dining web experience designed to combine storytelli
 
 ## 🎯 Goal
 To create an Awwwards-inspired luxury restaurant experience that blends fine dining with immersive web interactions and cinematic storytelling.
+## for collabrations : call +917731000979
